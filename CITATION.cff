@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite both the dataset and the related publication listed under preferred-citation."
+type: dataset
+title: "Permanent Strain of Granitic Rocks and Gabbro under Uniaxial Tension"
+authors:
+  - family-names: Lin
+    given-names: Weiren
+    affiliation: "Department of Urban Management, Graduate School of Engineering, Kyoto University"
+  - family-names: Takahashi
+    given-names: Manabu
+    affiliation: "Geological Survey of Japan, AIST (retired)"
+year: 2026
+license: CC-BY-NC-ND-4.0
+preferred-citation:
+  type: article
+  title: "Occurrence of Permanent Strain of Granitic Rocks and Gabbro under Uniaxial Tension: Implicating Damages Undergone in Failure Process"
+  authors:
+    - family-names: Lin
+      given-names: Weiren
+      affiliation: "Department of Urban Management, Graduate School of Engineering, Kyoto University"
+    - family-names: Takahashi
+      given-names: Manabu
+      affiliation: "Geological Survey of Japan, AIST (retired)"
+  year: 2026
+  journal: "Journal of the Society of Materials Science, Japan"
+  volume: 75
+  issue: 3
+  start: 179
+  end: 185
+  doi: "10.2472/jsms.2025.00102"

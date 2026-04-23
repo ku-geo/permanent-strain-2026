@@ -1,0 +1,15 @@
+# Original source files kept locally but not published
+林・高橋_2026_材料-引張の永久ひずみ.pdf
+Readme_LW.docx
+Data of stress-strain curves.xlsx
+Table1&2_2026.xls
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / local tooling
+.vscode/
+.idea/
+.claude/
